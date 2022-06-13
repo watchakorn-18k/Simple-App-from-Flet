@@ -1,5 +1,7 @@
 <center>
+<p align="center">
 <image src="https://github.com/flet-dev/flet/raw/main/media/logo/flet-logo.svg" width="20%">
+</p>
 <h1>ตัวอย่างง่ายๆแอพจาก Flet</h1>
 <p align="center">
 <image src="https://img.shields.io/github/repo-size/watchakorn-18k/Simple-App-from-Flet?label=Size&style=flat-square">
@@ -11,6 +13,8 @@
 <p align="center">
 <image src="https://media.discordapp.net/attachments/581018943041306641/985786567203368970/chrome-capture-2022-5-13.gif" width="50%">
 </p>
+
+<p>นี่คือตัวอย่างการพัฒนาแอพพลิเคชั่น Flet ง่ายๆ ผมได้ทดลองเล่นดูแล้ว พยายามเปลี่ยนหน้าของแอพ เนื่องจากเอกสารยังไม่มีได้มีแนวทางที่ชัดเจน ผมทำได้แค่เพียง pop() ลบ container ออกไปที่ละก้อนแทน นี่อาจไม่ใช่วิธีที่ดีที่สุด แต่ก็หวังว่าอนาคตจะมีวิธีที่ดีกว่านี้</p>
 
 # แอพหน้า index
 ```py
@@ -90,7 +94,7 @@ class AppMain:
         self.page.update()
 ```
 
-# หน้าแอพลงทะเทียน
+# หน้าแอพลงทะเบียน
 
 <p align="center">
 <image src="https://media.discordapp.net/attachments/581018943041306641/985785951722815528/unknown.png?width=333&height=532" width="50%">
