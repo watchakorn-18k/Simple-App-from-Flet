@@ -1,5 +1,11 @@
 <center>
+<image src="https://github.com/flet-dev/flet/raw/main/media/logo/flet-logo.svg" width="20%">
 <h1>ตัวอย่างง่ายๆแอพจาก Flet</h1>
+<p align="center">
+<image src="https://img.shields.io/github/repo-size/watchakorn-18k/Simple-App-from-Flet?label=Size&style=flat-square">
+<image src="https://img.shields.io/github/last-commit/watchakorn-18k/Simple-App-from-Flet?style=flat-square">
+<image src="https://img.shields.io/badge/flet-v0.1.30-tomato">
+</p>
 </center>
 
 <p align="center">
@@ -161,3 +167,4 @@ class AppRegister:
         # print(self.SurnameInput.value)
         # print(self.AgeInput.value)
 ```
+
